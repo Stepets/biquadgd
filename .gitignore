@@ -1,0 +1,6 @@
+
+bin/
+biquadgd.*
+.sconsign.dblite
+*.obj
+*.o
